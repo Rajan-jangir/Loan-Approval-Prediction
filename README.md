@@ -28,7 +28,7 @@ This project covers the whole process from problem statement to model developmen
   Kaggle
 
 ## In summary, 
-  - this project is helpful to me in understanding how to build a machine learning model and what are the steps one should go through to     build a robust model. If you have any feedback for this project, feel free to contact me via my LinkedIn.
+  - this project is helpful to me in understanding how to build a machine learning model and what are the steps one should go through to     build a robust model. If you have any feedback for this project, feel free to contact me via my [LinkedIn](https://www.linkedin.com/in/rajan-jangir-374a97173/) .
 
 
 

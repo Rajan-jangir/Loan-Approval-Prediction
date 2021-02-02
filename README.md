@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-This repo contains the Loan Approval Prediction project as part of my data science portfolio. This project is completed as part of the online training conducted by Diginique Techlabs. After trying and testing 3 different algorithms, the best accuracy on the public leaderboard is achieved by Logistic Regression (79%), by RandomForest (77%) and by Decision Tree (70%).
+This repo contains the Loan Approval Prediction project as part of my data science portfolio. This project is completed as part of the online training conducted by Diginique Techlabs. After trying and testing 3 different algorithms, the best accuracy is achieved by Logistic Regression (79%), by RandomForest (77%) and by Decision Tree (70%).
 
 This project covers the whole process from problem statement to model development and evaluation:
 1.	Problem Statement
